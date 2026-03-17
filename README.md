@@ -72,3 +72,25 @@ The dataset contains 500 samples with:
 1. Install required packages:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
+
+## Summary
+Student sleep pattern analysis using machine learning. Building AI course project.
+
+## Background
+Students often have poor sleep habits affecting performance and health.
+
+## How is it used?
+Users input lifestyle data → system analyzes patterns → provides insights.
+
+## Data sources and AI methods
+Dataset: student sleep dataset  
+Methods: clustering, outlier detection, visualization
+
+## Challenges
+Data accuracy, privacy, generalization
+
+## What next?
+Add wearable data, improve models, build app
+
+## Acknowledgments
+Inspired by Elements of AI course
